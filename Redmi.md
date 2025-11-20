@@ -231,12 +231,6 @@ n8n-whatsapp-automation/
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/zie619)
-
-</div>
- <h3 align="center">Passionate Competitive Programmer</h3>
-<div align="center">
-
   <h3>Passionate Competitive Programmer</h3>
 
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" style="float:right; margin-left:20px;"/>
