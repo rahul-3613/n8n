@@ -25,7 +25,7 @@ Key features include:
 
 ---
 
-## 🚀 Workflow Architecture
+## 🚀My n8n Workflow Architecture
 
 ```mermaid
 graph TD
