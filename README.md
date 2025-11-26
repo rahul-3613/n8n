@@ -1,5 +1,5 @@
 
-# 🚀 n8n WhatsApp Automation Workflows (Redmi Edition)
+n8n WhatsApp Automation Workflows.
 
 <div align="center">
 
